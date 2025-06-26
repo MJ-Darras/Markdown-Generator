@@ -1,0 +1,21 @@
+diff --git "a/examples\\expected_output\\blockquotes.html" "b/examples\\output\\blockquotes.html"
+index 02666f2..7e777be 100644
+--- "a/examples\\expected_output\\blockquotes.html"
++++ "b/examples\\output\\blockquotes.html"
+@@ -6,11 +6,12 @@
+     <title>Test</title>
+ </head>
+ 
++
+ <body>
+-    <blockquote>
+-        <p>This is a block quote.</p>
+-        <p>It can <strong>span</strong> multiple lines.</p>
+-    </blockquote>
++<blockquote>
++    <p>This is a block quote.</p>
++    <p>It can <strong>span</strong> multiple lines.</p>
++</blockquote>
+ </body>
+ 
+ </html>

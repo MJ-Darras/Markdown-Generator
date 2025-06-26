@@ -1,0 +1,20 @@
+diff --git "a/examples\\expected_output\\free_text.html" "b/examples\\output\\free_text.html"
+index d178a3b..3f81124 100644
+--- "a/examples\\expected_output\\free_text.html"
++++ "b/examples\\output\\free_text.html"
+@@ -6,10 +6,12 @@
+     <title>Test</title>
+ </head>
+ 
++
+ <body>
+-    <p>Here is some <strong>markdown</strong></p>
+-    <p>More lines here</p>
+-    <p>Text</p>
++<p>Here is some <strong>markdown</strong>
++More lines here
++Text
++</p>
+ </body>
+ 
+ </html>
